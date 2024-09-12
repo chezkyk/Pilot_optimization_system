@@ -1,62 +1,77 @@
 [
   {
     "City": "Tehran",
-    "Priority": 5
+    "Priority": 5,
+    "Distance" : ""
   },
   {
     "City": "Baghdad",
-    "Priority": 5
+    "Priority": 5,
+    "Distance" : ""
   },
   {
     "City": "Damascus",
-    "Priority": 5
+    "Priority": 5,
+    "Distance" : ""
   },
   {
     "City": "Kabul",
-    "Priority": 4
+    "Priority": 4,
+    "Distance" : ""
   },
   {
     "City": "Sanaa",
-    "Priority": 4
+    "Priority": 4,
+    "Distance" : ""
   },
   {
     "City": "Riyadh",
-    "Priority": 4
+    "Priority": 4,
+    "Distance" : ""
   },
   {
     "City": "Cairo",
-    "Priority": 3
+    "Priority": 3,
+    "Distance" : ""
   },
   {
     "City": "Beirut",
-    "Priority": 3
+    "Priority": 3,
+    "Distance" : ""
   },
   {
     "City": "Amman",
-    "Priority": 3
+    "Priority": 3,
+    "Distance" : ""
   },
   {
     "City": "Tripoli",
-    "Priority": 2
+    "Priority": 2,
+    "Distance" : ""
   },
   {
     "City": "Khartoum",
-    "Priority": 2
+    "Priority": 2,
+    "Distance" : ""
   },
   {
     "City": "Mosul",
-    "Priority": 2
+    "Priority": 2,
+    "Distance" : ""
   },
   {
     "City": "Fallujah",
-    "Priority": 1
+    "Priority": 1,
+    "Distance" : ""
   },
   {
     "City": "Kandahar",
-    "Priority": 1
+    "Priority": 1,
+    "Distance" : ""
   },
   {
     "City": "Marrakesh",
-    "Priority": 1
+    "Priority": 1,
+    "Distance" : ""
   }
 ]
