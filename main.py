@@ -233,8 +233,7 @@ def save_missions_to_csv(missions, csv_file_path):
         ]
         writer = csv.DictWriter(csvfile, fieldnames=titles)
 
-        if mode == 'w':
-            writer.writeheader()
+        writer.writeheader()
 
         unique_combinations = set()# to prevent duble missions
 
